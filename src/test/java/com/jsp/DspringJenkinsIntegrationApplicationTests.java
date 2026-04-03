@@ -21,6 +21,7 @@ class DspringJenkinsIntegrationApplicationTests {
 		logger.info("Third log statement...");
 		logger.info("Fourth log statement...");
 		logger.info("Fifth log statement...");
+		logger.info("Sixth log statement...");
 		logger.info("Email Verifiation statement...");
 		assertEquals(true,true);
 	}
