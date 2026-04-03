@@ -20,7 +20,6 @@ public class DspringJenkinsIntegrationApplication {
 	public static void main(String[] args) {
 
 		logger.info("Application executed...");
-		logger.info("Main class executing...");
 		SpringApplication.run(DspringJenkinsIntegrationApplication.class, args);
 	}
 }
