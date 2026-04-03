@@ -15,7 +15,7 @@ class DspringJenkinsIntegrationApplicationTests {
 	private static final Logger logger = LoggerFactory.getLogger(DspringJenkinsIntegrationApplicationTests.class);
 
 	@Test
-	void contextLoads() {
+	 contextLoads() {
 		logger.info("Test case executing...");
 		logger.info("Second log statement...");
 		assertEquals(true,true);
