@@ -18,6 +18,7 @@ class DspringJenkinsIntegrationApplicationTests {
 	void contextLoads() {
 		logger.info("Test case executing...");
 		logger.info("Second log statement...");
+		logger.info("Email Verifiation statement...");
 		assertEquals(true,true);
 	}
 
