@@ -16,7 +16,7 @@ class DspringJenkinsIntegrationApplicationTests {
 
 	@Test
 	void contextLoads() {
-		
+		logger.info("Test case executing...");
 		assertEquals(true,true);
 	}
 
